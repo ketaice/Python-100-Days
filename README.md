@@ -1,5 +1,7 @@
 ## Python - 100天从新手到大师
 
+by 骆昊
+
 ### Python应用领域和就业形势分析
 
 简单的说，Python是一个“优雅”、“明确”、“简单”的编程语言。
@@ -74,7 +76,7 @@
 - for循环 - 基本结构 / range类型 / 循环中的分支结构 / 嵌套的循环 / 提前结束程序 
 - 应用案例 - 1~100求和 / 判断素数 / 猜数字游戏 / 打印九九表 / 打印三角形图案 / 猴子吃桃 / 百钱百鸡
 
-#### Day05 - [总结和练习](./Day01-15/Day05/练习.md)
+#### Day05 - [总结和练习](./Day01-15/Day05/总结和练习.md)
 
 - 基础练习 - 水仙花数 / 完美数 / 五人分鱼 / Fibonacci数列 / 回文素数 
 - 综合练习 - Craps赌博游戏
@@ -137,7 +139,7 @@
 - 使用正则表达式 - re模块 \ compile函数 \ group和groups方法 \ match方法 \ search方法 \ findall和finditer方法 \ sub和subn方法 \ split方法
 - 应用案例 - 使用正则表达式验证输入的字符串
 
-#### Day13 - [进程和线程](./Day01-15/Day13/进程和线程入门.md)
+#### Day13 - [进程和线程](./Day01-15/Day13/进程和线程.md)
 
 - 进程和线程的概念 - 什么是进程 / 什么是线程 / 多线程的应用场景
 - 使用进程 - fork函数 / multiprocessing模块 / 进程池 / 进程间通信
@@ -156,11 +158,9 @@
 - 电子邮件 - SMTP协议 / POP3协议 / IMAP协议 / smtplib模块 / poplib模块 / imaplib模块
 - 短信服务 - twilio模块 / 国内的短信服务
 
-### Day16~Day20 - [Python语言进阶 ](./Day16-20)
+### Day16~Day20 - [Python语言进阶 ](./Day16-20/Python语言进阶.md)
 
-
-
-### Day21~30 - [Web前端](./Day21-30)
+### Day21~30 - [Web前端](./Day21-30/Web前端概述.md)
 
 - 用HTML标签承载页面内容
 - 用CSS渲染页面
@@ -168,7 +168,7 @@
 - jQuery入门和提高
 - Bootstrap在Web项目中的应用
 
-### Day31~35 - [Linux操作系统](./Day31-35)
+### Day31~35 - [Linux操作系统](./Day31-35/玩转Linux操作系统.md)
 
 - 操作系统发展史和Linux概述
 - Linux基础命令
@@ -200,27 +200,27 @@
 
 ### Day41~55 - [Django](./Day41-55)
 
-#### Day41 - [Django实战(01) - 快速上手](./Day41-55/Django2实战01.md)
+#### Day41 - [Django2实战(01) - 快速上手](./Day41-55/Django2实战01.md)
 
-#### Day42 - [Django实战(02) - 深入模型](./Day41-55/Django2实战02.md)
+#### Day42 - [Django2实战(02) - 深入模型](./Day41-55/Django2实战02.md)
 
-#### Day43 - [Django实战(03) - 视图和模板](./Day41-55/Django2实战03.md)
+#### Day43 - [Django2实战(03) - 视图和模板](./Day41-55/Django2实战03.md)
 
-#### Day44 - [Django实战(04) - 表单的应用](./Day41-55/Django2实战04.md)
+#### Day44 - [Django2实战(04) - 表单的应用](./Day41-55/Django2实战04.md)
 
-#### Day45 - [Django实战(05) - Cookie和会话](./Day41-55/Django2实战05.md)
+#### Day45 - [Django2实战(05) - Cookie和会话](./Day41-55/Django2实战05.md)
 
-#### Day46 - [Django实战(06) - 日志和缓存](./Day41-55/Django2实战06.md)
+#### Day46 - [Django2实战(06) - 日志和缓存](./Day41-55/Django2实战06.md)
 
-#### Day47 - [Django实战(07) - 文件上传和通用视图](./Day41-55/Django2实战07.md)
+#### Day47 - [Django2实战(07) - 文件上传和通用视图](./Day41-55/Django2实战07.md)
 
-#### Day48 - [Django实战(08) - 用户/角色/权限和中间件](./Day41-55/Django2实战08.md)
+#### Day48 - [Django2实战(08) - 用户/角色/权限和中间件](./Day41-55/Django2实战08.md)
 
-#### Day49 - [Django实战(09) - RESTful架构和应用(上)](./Day41-55/Django2实战09.md)
+#### Day49 - [Django2实战(09) - RESTful架构和应用(上)](./Day41-55/Django2实战09.md)
 
-#### Day50 - [Django实战(10) - RESTful架构和应用(下)](./Day41-55/Django2实战10.md)
+#### Day50 - [Django2实战(10) - RESTful架构和应用(下)](./Day41-55/Django2实战10.md)
 
-#### Day51-55 - [Django项目实战](./Day41-55/Django2项目实战.md)
+#### Day51-55 - [Django2项目实战](./Day41-55/Django2项目实战.md)
 
 - 项目开发流程和相关工具
 - 生成非HTML内容
@@ -260,17 +260,47 @@
 
 #### Day71 - [表单交互和验证码处理](./Day66-75/06.表单交互和验证码处理.md)
 
-#### Day72 - [Scrapy爬虫框架入门](./Day66-75/Scrapy爬虫框架入门.md)
+#### Day72 - [Scrapy爬虫框架入门](./Day66-75/爬虫框架Scrapy入门.md)
 
-#### Day73 - [Scrapy爬虫框架高级应用](./Day66-75/Scrapy爬虫框架高级应用.md)
+#### Day73 - [Scrapy爬虫框架高级应用](./Day66-75/爬虫框架Scrapy高级应用.md)
 
-#### Day74 - [Scrapy爬虫框架分布式实现](./Day66-75/Scrapy爬虫框架分布式实现.md)
+#### Day74 - [Scrapy爬虫框架分布式实现](./Day66-75/爬虫框架Scrapy分布式实现.md)
 
 ### Day76~90 - [数据处理和机器学习](./Day76-90)
 
+#### Pandas的应用
 
+#### NumPy和SciPy的应用
+
+#### Matplotlib和数据可视化
+
+#### K最邻近分类算法(KNN)
+
+#### 线性回归和Logistic回归
+
+#### 支持向量机(SVM)和Kmeans聚类
+
+#### 决策树和贝叶斯分类
+
+#### Tensorflow实战01
+
+#### Tensorflow实战02
+
+#### Tensorflow实战03
 
 ### Day91~100 - [团队项目开发](./Day91-100)
+
+#### 软件项目的过程模型
+
+#### 团队开发工具
+
+#### 模块分割设计与单元测试
+
+#### 用Jenkins实现持续集成
+
+#### 部署和自动化部署
+
+#### 性能测试和改善
 
 
 
